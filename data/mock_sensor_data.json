@@ -1,0 +1,5 @@
+[
+  { "timestamp": "2025-04-24T08:00:00Z", "temperature": 72, "humidity": 45 },
+  { "timestamp": "2025-04-24T09:00:00Z", "temperature": 98, "humidity": 46 },
+  { "timestamp": "2025-04-24T10:00:00Z", "temperature": 100, "humidity": 48 }
+]
