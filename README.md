@@ -82,20 +82,9 @@ SMS or WhatsApp alerts
 
 Cloud deployment (e.g., AWS, GCP)
 
-📄 License
-MIT License
 
 👤 Author
-Your Name – @odelola_Oluwatobi
+Your Name – @odelola_Oluwatobi 
 
 
 
-Update the placeholders with your real name and handle.
-
----
-
-## ✅ Next Step: Push to GitHub
- 
-git add .
-git commit -m "Initial project upload with alerts and logging"
-git push origin main
